@@ -1,6 +1,5 @@
 # inventory-management
 Inventory Management using Django Restful API 
-Sure! Here’s a focused `README.md` file for your Django inventory management project:
 
 ```markdown
 # Inventory Management API
@@ -150,5 +149,5 @@ This project is licensed under the MIT License.
 
 ### Notes:
 
-- Replace `https://github.com/yourusername/inventory-management.git` with the actual URL of your repository.
+- Replace `https://github.com/a-s-h-1-2-9/inventory-management.git` with the actual URL of your repository.
 - Feel free to modify any section to better fit your project specifics or add more details if needed. If you need anything else, just let me know!
